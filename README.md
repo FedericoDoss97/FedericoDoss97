@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ciao, sono Federico Doss 👋
 
-<!--
-**FedericoDoss97/FedericoDoss97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Neolaureato in Informatica** presso l'Università degli Studi di Verona.
+💻 Apasionato di sviluppo software, architetture backend e sistemi distribuiti.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Strumenti
+
+- **Linguaggi:** Java, Python, C, JavaScript, SQL
+- **Framework & Libs:** Node.js
+- **Tools & DevOps:** Git, Linux, Bash
+
+---
+
+### 📫 Come contattarmi
+
+- **LinkedIn:** www.linkedin.com/in/federicodoss
+- **Email:** fededoss97@gmail.com
