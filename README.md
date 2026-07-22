@@ -1,6 +1,6 @@
 # Ciao, sono Federico Doss 👋
 
-🎓 **Neolaureato in Informatica** presso l'Università degli Studi di Verona.
+🎓 **Laureato in Informatica** presso l'Università degli Studi di Verona.
 💻 Apasionato di sviluppo software, architetture backend e sistemi distribuiti.
 
 ---
